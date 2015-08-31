@@ -1,0 +1,23 @@
+	
+	body {
+		font-family: Arial;
+		font-size: 1.2em;
+	}
+	.tbl {
+		border:.2em solid #C0C0C0;
+		border-collapse:collapse;
+		padding:1em;
+		background: #24A8DE;
+	}
+	.tbl th {
+		border:.2em solid #C0C0C0;
+		padding:5px;
+		background:#F0F0F0;
+		background: #24A8DE;
+		color: white;
+	}
+	.tbl td {
+		border:.2em solid #C0C0C0;
+		padding:5px;
+		color: white;
+	}
